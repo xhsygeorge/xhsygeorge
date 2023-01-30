@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @xhsygeorge
-- 👀 I’m interested in Java.
-- 🌱 I’m currently learning Java and CSS.
-- 📫 E-mail: xhsygeorge@gmail.com
+- 👋 This is @xhsygeorge
+- 📫 E-mail: xhsygeorge@163.com
+- ✔️ English, 简体中文
 
 <!---
 xhsygeorge/xhsygeorge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
